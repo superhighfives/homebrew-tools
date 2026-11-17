@@ -1,6 +1,6 @@
 cask "mark-one" do
-  version "1.0.0"
-  sha256 "22806644710d116cce49a9ddd3105ec9c65be0b7b7ea2524c95a7f9fabe9bc23"
+  version "1.0.1"
+  sha256 "4c4d3dfa08d850292cfb3e4b2b3fcad3cc5921cb74f40da287803fcdd371258d"
 
   url "https://github.com/superhighfives/mark-one/releases/download/#{version}/Mark-One-#{version}.dmg"
   name "Mark One"
